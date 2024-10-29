@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mostafa</h1>
-<h3 align="center">A passionate android developer with about 1 year of experience in developing apps using Java, Kotlin, XML, and Jetpack Compose</h3>
+<h3 align="center">A passionate Android Developer with about 1 year of experience in developing apps using Java, Kotlin, XML, and Jetpack Compose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmostafa580&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmostafa580" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/m_mostafa_2011" target="blank"><img src="https://img.shields.io/twitter/follow/m_mostafa_2011?logo=twitter&style=for-the-badge" alt="m_mostafa_2011" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Jetpack Compose, DI, Clean Architecture, Retrofit, Room, DataStore, Offline Caching**
+- 🌱 I’m currently learning **Android, Jetpack Compose, DI, Clean Architecture, Navigation, Retrofit, Room, DataStore, Offline Caching**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahmoudMostafa580](https://github.com/MahmoudMostafa580)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MahmoudMostafa580)
 
 - 📫 How to reach me **mahmoud.mostafa20112011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bscC7B-hJpF5ZME2cx1wsXnp9CzFld3Y/view?usp=drive_link](https://drive.google.com/file/d/1bscC7B-hJpF5ZME2cx1wsXnp9CzFld3Y/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bscC7B-hJpF5ZME2cx1wsXnp9CzFld3Y/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
