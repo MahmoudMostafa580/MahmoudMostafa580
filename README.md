@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_mostafa_2011" target="blank"><img src="https://img.shields.io/twitter/follow/m_mostafa_2011?logo=twitter&style=for-the-badge" alt="m_mostafa_2011" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Jetpack Compose, DI, Clean Architecure**
+- 🌱 I’m currently learning **Android, Jetpack Compose, DI, Clean Architecture, Retrofit, Room, DataStore, Offline Caching**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudMostafa580](https://github.com/MahmoudMostafa580)
 
